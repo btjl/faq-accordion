@@ -27,14 +27,16 @@ Users should be able to:
 ### Screenshot
 
 - Mobile
-  ![Mobile](./screenshots/mobile-solution.png)
+
+![Mobile](./screenshots/mobile-solution.png)
 
 - Desktop
-  ![Desktop](./screenshots/desktop-solution.png)
+
+![Desktop](./screenshots/desktop-solution.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-with-reactts-tailwind-vite-BwyL65pa-p)
 - Live Site URL: [GitHub Pages](https://btjl.github.io/faq-accordion/)
 
 ## My process
