@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
         "light-pink": "hsl(275, 100%, 97%)",
-        "grayish-purple": " hsl(292, 16%, 49%)",
+        "grayish-purple": "hsl(292, 16%, 49%)",
         "dark-purple": "hsl(292, 42%, 14%)",
         "active-purple": "hsl(281, 58%, 50%)",
       },
