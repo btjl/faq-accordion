@@ -14,9 +14,9 @@ export default {
       },
       backgroundImage: {
         "pattern-mobile":
-          'url("./src/assets/images/background-pattern-mobile.svg")',
+          'url("/src/assets/images/background-pattern-mobile.svg")',
         "pattern-desktop":
-          'url("./src/assets/images/background-pattern-desktop.svg")',
+          'url("/src/assets/images/background-pattern-desktop.svg")',
       },
     },
   },
